@@ -1,0 +1,1 @@
+|| --Sn-- || -Screenshot Name- || ---TimeStamp--- || -Dialog Event- || --X-- || --Y-- || -Mobile Number- ||
